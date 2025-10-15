@@ -9,6 +9,6 @@ Exploratory Data Analysis (EDA) – class imbalance analysis, sentiment type dis
 
 Feature Engineering – categorical encoding, removal of redundant features.
 
-Modeling – trained Extra Trees Classifier due to its increased randomness in splitting nodes and selecting features reduces model variance and the risk of overfitting..
+Modeling –  Extra Trees Classifier due to its increased randomness in splitting nodes and selecting features reducing model variance and overfitting.
 
 Evaluation – Confusion matrix, Classification metrics, Precision, Recall, and F1-score.
